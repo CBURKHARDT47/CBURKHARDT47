@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on data analysis projects.
 - 📫 How to reach me:
     Email: CrystalBurkhardt@hotmail.com
+    LinkedIn: www.linkedin.com/in/crystal-burkhardt-77b9b3288
 
 <!---
 CBURKHARDT47/CBURKHARDT47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
